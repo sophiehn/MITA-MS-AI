@@ -1,4 +1,4 @@
-# MITA Microsoft Artificial Intelligence Student Event
+# MITA + Microsoft Artificial Intelligence Student Event
 
 **URLs for the Artificial Intelligence Workshop**
 
@@ -7,6 +7,8 @@
 2. [Azure Student developer resources](https://azure.microsoft.com/en-us/resources/students/)
 
 3. [Build a bot with the Language Service and Azure Bot Service](https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
+
+Optional:
 
 4. [Computer Vision Introduction](https://docs.microsoft.com/en-in/learn/modules/analyze-images-computer-vision/1-introduction)
 
