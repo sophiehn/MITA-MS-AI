@@ -1,4 +1,4 @@
-# MITA-MS-AI
+# MITA Microsoft Artificial Intelligence Student Event
 
 **URLs for the Artificial Intelligence Workshop**
 
